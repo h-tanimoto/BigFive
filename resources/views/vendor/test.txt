@@ -1,0 +1,7 @@
+testhohohohohoさらにイジリー
+sara-ni
+さらーに
+
+addした後にrm --cachedして、commitからのpushで--cachedした分はgithub上から消えてた
+
+そのご、このように変更して、全体pushでこのtest.txtはどうなる？
