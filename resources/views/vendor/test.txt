@@ -6,3 +6,5 @@ addした後にrm --cachedして、commitからのpushで--cachedした分はgit
 
 そのご、このように変更して、全体pushでこのtest.txtはどうなる？
 aaa
+
+aaa
